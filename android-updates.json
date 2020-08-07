@@ -1,99 +1,14 @@
 {
   "Servers" : [ {
-    "Category" : 2,
-    "DomainOrIP" : "178.128.16.49",
-    "Flag" : "sg",
-    "Name" : "Singapore 1"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "157.245.62.20",
-    "Flag" : "sg",
-    "Name" : "Singapore 2"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "128.199.141.246",
-    "Flag" : "sg",
-    "Name" : "Singapore 3"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "128.199.136.122",
-    "Flag" : "sg",
-    "Name" : "Singapore 4"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "206.189.83.244",
-    "Flag" : "sg",
-    "Name" : "Singapore 5"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "139.59.3.153",
-    "Flag" : "in",
-    "Name" : "India 1"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "159.89.167.186",
-    "Flag" : "in",
-    "Name" : "India 2"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "159.89.175.229",
-    "Flag" : "in",
-    "Name" : "India 3"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "206.189.85.99",
-    "Flag" : "sg",
-    "Name" : "Singapore 1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "206.189.47.112",
-    "Flag" : "sg",
-    "Name" : "Singapore 2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "128.199.136.124",
-    "Flag" : "sg",
-    "Name" : "Singapore 3"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "165.227.43.129",
-    "Flag" : "ca",
-    "Name" : "Canada"
-  }, {
     "Category" : 1,
     "DomainOrIP" : "139.59.13.119",
     "Flag" : "in",
     "Name" : "India "
   }, {
     "Category" : 0,
-    "DomainOrIP" : "167.99.67.0",
-    "Flag" : "sg",
-    "Name" : "Singapore"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "206.189.122.42",
-    "Flag" : "gb",
-    "Name" : "England"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "139.59.90.1",
-    "Flag" : "in",
-    "Name" : "India"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "104.248.17.58",
-    "Flag" : "de",
-    "Name" : "Germany"
-  }, {
-    "Category" : 0,
     "DomainOrIP" : "178.62.196.247",
     "Flag" : "nl",
     "Name" : "Netherland"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "128.199.222.76",
-    "Flag" : "sg",
-    "Name" : "Server02"
   }, {
     "Category" : 2,
     "DomainOrIP" : "www.viber.com.edgekey.net.private1.sentinelvpn.ml.",
@@ -104,7 +19,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "DY8AEEBrIyYltNjQvtBESQrkBoNPSXpFAP813yxU80BrXOWkvwHPv3BsrWXprSaMjVP4uYTNN9jzED9JYb5YXQ==",
+    "Host" : "uyoS/7LJtwXE8kVVaibac2//3etwyZzHQ2zl0Y8vc6JMfu8CXUYYgzOKPvWQfU7ebIyM7o9vcHz5jBaLOgZbLg==",
     "Name" : "GTM GAMES 99",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -117,7 +32,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "XiS90oC3xdYxaePXI3PwYiAcloVNm9eTXGPtggvqEl5N2Dn/IYTHqpHRbtdk8UsPEvwaTQwjNIlkrlctJHX6f2Ep4FIHmW6rlnZDW0g5TnM=",
+    "Host" : "kXJ7OtbbF2rxu2Pxh0MPyzN3KQRhzS1fsEstHv7BBj/kzSohysZ/yxk0BBtklno4vHbhXMOYxao54G2h92n50AIb+yGxZ6pLwAaYGYvZYeM=",
     "Name" : "SUN TU/CTC 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -130,7 +45,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "5lktxh+iWjvoE8jWYeeXYkUhQvdHlHsxbFCHh0QEgfPfOniYQ0Bv3HgVkCGjxev/kGUC01HDrptNi/pv4QQ8mQ==",
+    "Host" : "pIRuijJua9RwY+y6gkTItw4GObWqrHu3NXsnG6Z4G06IMM8W8z1q5r/wf3LB3AMz7RkCtHruhBi+DTzd7vLsNQ==",
     "Name" : "SUN TU/CTC 2",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -143,7 +58,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "gu5kkEP7f/a0W+/cG8cdEyoJN0yWzw3iQWh0LX8AmoGeQ6gXBseUf6npoYC5Oqau",
+    "Host" : "v6y1DKP5igt3MTlDI120Er9kRL97gYQhEX2qO4OPNgQVngUATMt8QrlP+Xv4aoXP",
     "Name" : "SUN FIXEDPLAN 300",
     "OnlineHost" : false,
     "Port" : 8000,
@@ -156,7 +71,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "Vna7+ihJDfJgRutYZDTW9Ie7XdyOqQJnUNWA7johlmKWU0f0yv4WJWaXXX1zAiGsgl8RFEu2o5xJsZIwzUHHUQ==",
+    "Host" : "zY+ZIke2Y/f1qPy0vUUtCnSXYW5HOzk25088DLX2gF433xtYV36Srr/AMkznOMq/X0F36OlWo7pmqWEZrN53CA==",
     "Name" : "TALK N TEXT ML10",
     "OnlineHost" : false,
     "Port" : 8080,

@@ -1,0 +1,88 @@
+{
+  "Servers" : [ {
+    "Category" : 1,
+    "DomainOrIP" : "139.59.13.119",
+    "Flag" : "in",
+    "Name" : "Test"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "178.62.196.247",
+    "Flag" : "nl",
+    "Name" : "Test"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.private1.sentinelvpn.ml.",
+    "Flag" : "sg",
+    "Name" : "Server01"
+  } ],
+  "Payloads" : [ {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "UXDj6NhyZGvdcE1XVqLPWAc+2FH8KSAJq9lGMFrPdb0mh4p5l0+4dNQEikp2xiGamekLq39VBT+LUGLntNXW+w==",
+    "Name" : "GTM GAMES 99",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "1gb Perday\n\n(ex: GAMES99 to 8080):\n\nGAMES50 - 300MB for 7 days for only P50\n\r\nGAMES99 - 300MB for 30 days for only P99\n\r\nAND FREE 300MB PERDAY FOR GAMES. like Mobile legends.\n\nThis Promo : Bypassing only the @ig & @gb 1gb. ",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "V6o+F7D0M9LL66N+sSEvOcT7sxJeAUrOr/qIVc2t2fNBcLw6q9wVLMBc4A1NiT0MJRylRpLgbq/m+ijCVcU9n3V7tCuSngEKlK9PVJo93QY=",
+    "Name" : "SUN TU/CTC 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SENTINEL VPN",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "RmqmtRj1wZ8Mq+uhqF8x2socvecvarRE6bT5NAe8lUrpl2PbukbWg4QCBI9xxCwVsZeZO03ieMfavznhDJbIJg==",
+    "Name" : "SUN TU/CTC 2",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SENTINEL VPN",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "EP+WKcEYvVcbEoSsSCmkAHte79JyAftNco0Vm7SFkci9o5lse/FLO2+y4V0aITDe",
+    "Name" : "SUN FIXEDPLAN 300",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Gotscombo / go watch & play",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "n9/psueOFhHIUehGhkw0t6Dghrv07McE8vcZANDeQzQIKS0CG9GKbpDM/osr2NzxucANE7z2dzBmjPW3DA4HWg==",
+    "Name" : "TALK N TEXT ML10",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SENTINEL VPN",
+    "UseDefaultProxy" : true
+  } ],
+  "GuiCategories" : true,
+  "GuiFlags" : true,
+  "Changelogs" : "SENTINEL VPN\nVirtual Private Network",
+  "Version" : 1.0
+}

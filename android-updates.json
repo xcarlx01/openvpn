@@ -1,0 +1,88 @@
+{
+  "Servers" : [ {
+    "Category" : 1,
+    "DomainOrIP" : "139.59.13.119",
+    "Flag" : "in",
+    "Name" : "Test"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "139.59.90.1",
+    "Flag" : "in",
+    "Name" : "Test"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.private1.sentinelvpn.ml",
+    "Flag" : "sg",
+    "Name" : "Server01"
+  } ],
+  "Payloads" : [ {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "BnNYanAIIRGJkluybjkB6wnON/ajSnjuZq2c8MdqgLPmxTXAfhcVR7AMA/RfklUz/IYHid9iM2gcelN49fmqnw==",
+    "Name" : "GTM GAMES 99",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "Globe/TM Promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "0Sg0xFaIs6/xnQ0baVQ8OaXeyjLiieVg5UnyCwSmIMxZPMOFg2BZ6/GBMWD5xwUqJ9zLxVuwxbJIRJ6mjwMcCsT6dHSttdRIY+/OiM3PniY=",
+    "Name" : "SUN TU/CTC 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Sun Promo 1",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "4hwgniRDhNE2PlT0Q1zZQ4omB2DzKTexWF2mj9zwf/m5yVebYePc84F+DSgHyEpNEBpCnE9dLbHjwIfYA/XAEQ==",
+    "Name" : "SUN TU/CTC 2",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Sun Promo 2",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "0+smYiekTXMEx5FUkDGaH1sa2hilRD/qHN4SJLz4Bfo6addhAT0xCIOBmvbJjCgy",
+    "Name" : "SUN FIXEDPLAN 300",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Sun Fixed Plan 300 ",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "DsinwmSbcTP8zKMyWrfXk9J+136Ap/0IIVKCiAMewp0pccLejii+28oUomxzoS7O3bEGjiAo/Uo7jVbxjDzcdg==",
+    "Name" : "TALK N TEXT ML10",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SENTINEL VPN",
+    "UseDefaultProxy" : true
+  } ],
+  "GuiCategories" : true,
+  "GuiFlags" : true,
+  "Changelogs" : "SENTINEL VPN\nVirtual Private Network\n2019",
+  "Version" : 1.1
+}
